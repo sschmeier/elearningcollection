@@ -4,15 +4,14 @@ A collection of random and not so random learning materials. I did not screen al
 * * *
 
 ## Contents
-- [1. General computation/statistics/biology](#1._General_computation/statistics/biology)
- - [1.1 Online courses](#1.1_Online_courses)
- - [1.2 University course material](#1.2_University_course_material) 
- - [1.3 Other material/tutorials/books/etc.](#1.3_Other_material/tutorials/books/etc.)
-- [2. Bioinformatics/genomics/transcriptomics/etc.](#2._Bioinformatics/genomics/transcriptomics/etc.)
- - [2.1 Online courses](#2.1_Online_courses) 
- - [2.2 University course material](#2.2_University_course_material) 
- - [2.3 Other material/tutorials/books/etc.](#2.3_Other_material/tutorials/books/etc.)
-- [3. Comments](#3._Comments)
+- [1. General computation/statistics/biology](#1_General_computation/statistics/biology)
+ - [1.1 Online courses](#11_Online_courses)
+ - [1.2 University course material](#12_University_course_material) 
+ - [1.3 Other material/tutorials/books/etc.](#13_Other_material/tutorials/books/etc.)
+- [2. Bioinformatics/genomics/transcriptomics/etc.](#2_Bioinformatics/genomics/transcriptomics/etc.)
+ - [2.1 Online courses](#21_Online_courses) 
+ - [2.2 University course material](#22_University_course_material) 
+ - [2.3 Other material/tutorials/books/etc.](#23_Other_material/tutorials/books/etc.)
 
 * * *
 
