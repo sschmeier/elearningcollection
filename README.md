@@ -1,17 +1,17 @@
 #Collection of online learning material
-A collection of random and not so random learning materials. I did not screen all of the material presented here. Some might/will be inappropriate. Please give me feedback (either email or the [comments section](#Comments) below) if some of the material was either useful or not. Send through more material or [pull requests](https://github.com/sschmeier/sschmeier.github.io) if you have any that you think are particular useful and would like to see included here. Also, some web-links that worked at the time of creating this page might not work anymore ([pull requests](https://github.com/sschmeier/sschmeier.github.io) appreciated too).
+A collection of random and not so random learning materials for computation/biology/bioinformatics. I did not screen all of the material presented here. Some might/will be inappropriate for what you want to do or learn. Please give me feedback (open a **New issue**) if some of the material was either useful or not. Send through more material (preferable via a **pull request**, clone this repo at https://github.com/sschmeier/elearningcollection.git) if you have any that you think are particular useful and would like to see included here. Also, some web-links that worked at the time of creating this page might not work anymore (open a **New issue** or sent me a correction via a **pull request**).
 
 * * *
 
 ## Contents
-- [1. General computation/statistics/biology](#1-General-computationstatisticsbiology)
- - [1.1 Online courses](#11-Online-courses)
- - [1.2 University course material](#12-University-course-material) 
- - [1.3 Other material/tutorials/books/etc.](#13-Other-materialtutorialsbooks/etc.)
-- [2. Bioinformatics/genomics/transcriptomics/etc.](#2-Bioinformaticsgenomicstranscriptomicsetc.)
- - [2.1 Online courses](#21-Online-courses) 
- - [2.2 University course material](#22-University-course-material) 
- - [2.3 Other material/tutorials/books/etc.](#23-Other-materialtutorialsbooksetc.)
+- [1. General computation/statistics/biology](#1-general-computationstatisticsbiology)
+ - [1.1 Online courses](#11-online-courses)
+ - [1.2 University course material](#12-university-course-material) 
+ - [1.3 Other material/tutorials/books/etc.](#13-other-materialtutorialsbooks/etc.)
+- [2. Bioinformatics/genomics/transcriptomics/etc.](#2-bioinformaticsgenomicstranscriptomicsetc.)
+ - [2.1 Online courses](#21-online-courses) 
+ - [2.2 University course material](#22-university-course-material) 
+ - [2.3 Other material/tutorials/books/etc.](#23-other-materialtutorialsbooksetc.)
 
 * * *
 
