@@ -1,4 +1,4 @@
-#Collection of online learning material
+# Collection of online learning material
 A collection of random and not so random learning materials for computation/biology/bioinformatics. I did not screen all of the material presented here. Some might/will be inappropriate for what you want to do or learn. Please give me feedback (open a **New issue**) if some of the material was either useful or not. Send through more material (preferable via a **pull request**, clone this repo at https://github.com/sschmeier/elearningcollection) if you have any that you think are particular useful and would like to see included here. Also, some web-links that worked at the time of creating this page might not work anymore (open a **New issue** or sent me a correction via a **pull request**).
 
 * * *
